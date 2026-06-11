@@ -4,14 +4,16 @@ A Python-based security tool that analyzes password strength and provides real-t
 Cybersecurity by Tania — Project 1
 **📖 Description**
 A modern, interactive Password Strength Checker web application built with Next.js 16, TypeScript, and Tailwind CSS. This tool analyzes passwords in real-time, evaluating their strength based on length, character variety, entropy, and vulnerability to common password databases. It provides instant visual feedback with security scores, estimated crack times, and actionable suggestions to improve password security.
-**✨ Features:**
+
+#  ✨ Features:
 Landing Page:
 * Animated Logo — Cybersecurity shield with gradient styling
 * "Secure Your Digital Future with Tania" — Bold gradient title
 * "Stay Safe And Secure" — Subtitle
 * Fingerprint Scanner — Interactive biometric simulation with scan animation and verification
 * Get Started Button — Smooth transition to the main app.
-**🔍 Password Analysis**
+
+# 🔍 Password Analysis
 Real-time Strength Detection — Classifies passwords as Weak, Medium, Strong, or Very Strong
 Password Length Check — Scores for 8+, 12+, and 16+ character passwords
 Character Type Detection — Checks uppercase (A-Z), lowercase (a-z), numbers (0-9), and special symbols (!@#$)
@@ -20,22 +22,26 @@ Crack Time Estimation — Estimates brute-force attack duration based on 10 bill
 Common Password Detection — Flags 70+ commonly leaked passwords (e.g., "123456", "password", "qwerty")
 Sequential Pattern Detection — Penalizes patterns like "abc", "123", "xyz"
 Repeated Character Detection — Penalizes repeated characters like "aaa", "111"
-**📊 Visual Feedback**
+
+# 📊 Visual Feedback
 Strength Badge — Color-coded badge (Red/Amber/Emerald) with animated transitions
 Security Score — 0-100 progress bar with smooth animation
 Criteria Checklist — Visual checkmarks showing which requirements are met
 Character Type Grid — A-Z, a-z, 0-9, !@#$ indicators
 Suggestions — Actionable tips to improve password strength
-**🛠️ Tools**
+
+# 🛠️ Tools:
 Password Generator — One-click secure password generation (16-20 characters, all types included)
 Show/Hide Toggle — Eye icon to toggle password visibility
 Copy to Clipboard — One-click copy button
 Check History — Saves last 5 analyzed passwords with timestamps
 Security Logic Analyzer — Clickable button that focuses input and triggers analysis animation
-**📚 Security Best Practices**
+
+# 📚 Security Best Practices:
 6 educational security tips displayed in a card grid
 Topics: Length, Character Mix, Common Passwords, Uniqueness, Leak Checking, Password Managers
-**| Technology | Version | Purpose |**
+
+# | Technology | Version | Purpose |
 |-----------|---------|---------|
 | Next.js | 16 | React Framework with App Router |
 | TypeScript | 5 | Type-safe JavaScript |
