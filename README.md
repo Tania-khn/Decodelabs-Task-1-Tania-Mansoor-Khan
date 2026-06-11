@@ -141,5 +141,5 @@ password-strength-checker/
 - **Sequential characters** (abc, 123): -10 points
 - **Repeated characters** (aaa, 111): -10 points
 
-## 📜 License:
-This project is created for educational purposes as part of the Cybersecurity training by Tania.
+# 📜 License:
+**This project was developed as part of my Cybersecurity Internship at Decodelabs.**
