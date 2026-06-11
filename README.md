@@ -140,5 +140,6 @@ password-strength-checker/
 - **Under 6 characters**: Score capped at 25
 - **Sequential characters** (abc, 123): -10 points
 - **Repeated characters** (aaa, 111): -10 points
+
 ## 📜 License:
 This project is created for educational purposes as part of the Cybersecurity training by Tania.
